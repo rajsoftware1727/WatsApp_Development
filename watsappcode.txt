@@ -2,4 +2,5 @@ main
 method
 method1
 method2
+hide method2
 close
