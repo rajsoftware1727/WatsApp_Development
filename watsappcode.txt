@@ -5,4 +5,6 @@ method2
 hide method2
 add audio and video calls feature
 add bigsFile data feature code
+add game playing toys feature
+add text styles feature
 close
