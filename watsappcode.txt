@@ -7,4 +7,5 @@ add audio and video calls feature
 add bigsFile data feature code
 add game playing toys feature
 add text styles feature
+add hair style feature
 close
